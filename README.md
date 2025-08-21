@@ -1,7 +1,7 @@
-#here is my dashboard img
-<img width="1280" height="800" alt="Screen Shot 2025-08-21 at 3 40 15 AM" src="https://github.com/user-attachments/assets/4e9b2b58-3dc0-4197-88ba-99f28824e6d2" />
-#using git commands created a branch 
-<img width="1280" height="800" alt="Screen Shot 2025-08-21 at 3 54 23 AM" src="https://github.com/user-attachments/assets/f84485ed-9376-4332-8414-c8425f3bd3bc" />
+#create a new repositry
+<img width="1280" height="800" alt="Screen Shot 2025-08-21 at 4 13 29 AM" src="https://github.com/user-attachments/assets/4816f50f-dc9d-4ca1-9c67-b532eb2251da" />
+#using git commands clone and created a branch 
+<img width="1280" height="800" alt="Screen Shot 2025-08-21 at 4 11 18 AM" src="https://github.com/user-attachments/assets/4aae441b-6072-444b-92a3-40c3ec01aad1" />
 #make changes on it add commit and push
 <img width="1280" height="800" alt="Screen Shot 2025-08-21 at 3 20 52 AM" src="https://github.com/user-attachments/assets/43fc3e51-5397-464b-8a99-5e986c8d4166" />
 <img width="1280" height="800" alt="Screen Shot 2025-08-21 at 3 26 21 AM" src="https://github.com/user-attachments/assets/e87c962f-2556-4df0-8551-cfe692bbb99e" />
